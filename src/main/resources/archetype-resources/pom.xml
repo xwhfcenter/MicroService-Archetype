@@ -17,7 +17,7 @@
         <common.lang3.version>1.16.20</common.lang3.version>
         <google.guava.version>25.0-jre</google.guava.version>
         <orika.version>1.5.4</orika.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <docker.image.prefix>microservice</docker.image.prefix>
     </properties>
 
